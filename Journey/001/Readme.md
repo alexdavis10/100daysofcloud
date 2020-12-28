@@ -2,6 +2,7 @@
 ![placeholder image](https://via.placeholder.com/1200x600)
 
 # New post title here
+This is a test change to the title.
 
 ## Introduction
 
