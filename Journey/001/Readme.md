@@ -3,6 +3,7 @@
 
 # New post title here
 This is a test change to the title.
+This is another change.
 
 ## Introduction
 
