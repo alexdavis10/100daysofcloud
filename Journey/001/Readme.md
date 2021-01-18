@@ -13,6 +13,8 @@ Learning about the difference actions and terminologies of Git
 
 - ✍️ Updating this readme.md file to update file on github through visual studio code and mac terminal.
 
+-Testing a pull action after updating readme.md file in github and pulling to mac.
+
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
