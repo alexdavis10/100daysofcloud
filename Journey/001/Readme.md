@@ -3,19 +3,15 @@
 **Add a cover photo like:**
 ![placeholder image](github.png)
 
-# New post title here
+# CloudSkills.io AZ-400 Week 1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Use Case
-
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Learning about the difference actions and terminologies of Git
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+- ✍️ Updating this readme.md file to update file on github through visual studio code and mac terminal.
 
 ## Social Proof
 
